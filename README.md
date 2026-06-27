@@ -13,4 +13,4 @@ Self-learning mode = ON. Har pipeline, har error yahin document kar rahi hu.
 
 ### 📊 My GitHub Stats
 ![Nikku's Stats](https://github-readme-stats.vercel.app/api?username=Genomicsnikku&show_icons=true&theme=radical)
-- 📫 How to reach me: tera.email@gmail.com
+- 📫 How to reach me: n3016507@gmail.com
