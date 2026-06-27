@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Nikku
 
-<!--
-**Genomicsnikku/Genomicsnikku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **BSc Biotechnology Student | Future Bioinformatician** 
 
-Here are some ideas to get you started:
+**My Story:** Class abhi start bhi nahi hui, but maine pehle se hi `Biopython 0 → 10x Genomics` ki journey shuru kar di 🔥 
+Self-learning mode = ON. Har pipeline, har error yahin document kar rahi hu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm learning right now:** 
+- 🐍 Python + Biopython basics, all by myself 
+- 🧬 10x Genomics ka craze - future ka target 
+- 📊 How to think like a Bioinformatics person
+
+**Let's connect:** 
+- 🌱 Currently learning: Python for Biology 
+- 💬 Ask me about: Starting Bioinformatics from zero, BSc to Genomics path
+- 📫 How to reach me: [Add your LinkedIn/Email here]
+
+---
+⭐️ Follow my 0-to-10x journey. Let's learn together!
