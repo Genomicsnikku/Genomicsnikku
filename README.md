@@ -13,7 +13,7 @@ Self-learning mode = ON. Har pipeline, har error yahin document kar rahi hu.
 **Let's connect:** 
 - 🌱 Currently learning: Python for Biology 
 - 💬 Ask me about: Starting Bioinformatics from zero, BSc to Genomics path
-- 📫 How to reach me: [Add your LinkedIn/Email here]
+- 📫 How to reach me: tera.email@gmail.com
 
 ---
 ⭐️ Follow my 0-to-10x journey. Let's learn together!
