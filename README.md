@@ -6,14 +6,11 @@
 Self-learning mode = ON. Har pipeline, har error yahin document kar rahi hu.
 
 **What I'm learning right now:** 
-- 🐍 Python + Biopython basics, all by myself 
-- 🧬 10x Genomics ka craze - future ka target 
-- 📊 How to think like a Bioinformatics person
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Let's connect:** 
-- 🌱 Currently learning: Python for Biology 
-- 💬 Ask me about: Starting Bioinformatics from zero, BSc to Genomics path
+### 📊 My GitHub Stats
+![Nikku's Stats](https://github-readme-stats.vercel.app/api?username=Genomicsnikku&show_icons=true&theme=radical)
 - 📫 How to reach me: tera.email@gmail.com
-
----
-⭐️ Follow my 0-to-10x journey. Let's learn together!
